@@ -9,6 +9,8 @@
 ### Connect With Me
  <a href="https://www.linkedin.com/in/syifa-nurinayah-30ab81156/">
       <img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/174857.png" width="40" height="40" />
+    </a><a href="https://public.tableau.com/app/profile/syifanurinayah">
+      <img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/Tableau-Symbol.png" width="40" height="40" />
     </a>
 
 
