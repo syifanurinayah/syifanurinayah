@@ -4,7 +4,7 @@
 #### 📫 How to reach me: syifanurinayah07@gmail.com
 
 ### Languages and Tools
-<img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/imageedit_1_6076270254.png" width="50" height="40" /><img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/Tableau-Symbol.png" width="50" height="40" /><img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/power-bi_logo.png" width="70" height="40" /><img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/Python-logo-notext.svg.png" width="50" height="40" />
+<img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/imageedit_1_6076270254.png" width="50" height="40" /><img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/Tableau-Symbol.png" width="50" height="40" /><img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/power-bi_logo.png" width="90" height="40" /><img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/Python-logo-notext.svg.png" width="50" height="40" />
 
 
 
