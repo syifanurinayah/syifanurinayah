@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 i'm Syifa 
 
 #### 🌱 I’m currently learning SQL,Tableau,PowerBI,Python
 #### 📫 How to reach me: syifanurinayah07@gmail.com
