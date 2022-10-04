@@ -4,7 +4,7 @@
 #### 📫 How to reach me: syifanurinayah07@gmail.com
 
 ### Languages and Tools
-<img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/imageedit_1_6076270254.png" width="50" height="50" />
+<img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/imageedit_1_6076270254.png" width="50" height="40" />
 
 
 
