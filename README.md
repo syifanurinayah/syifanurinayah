@@ -4,7 +4,8 @@
 #### 📫 How to reach me: syifanurinayah07@gmail.com
 
 ### Languages and Tools
-#### ![png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure](https://user-images.githubusercontent.com/28806621/193842595-e3249e71-8c63-406f-9c0d-50fc8d28a649.png)
+#### ![png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo](https://user-images.githubusercontent.com/28806621/193843134-c50f9d60-46f4-4123-944f-39fc5f9ef7db.png)
+
 
 
 <!--
