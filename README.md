@@ -3,6 +3,9 @@
 #### 🌱 I’m currently learning SQL,Tableau,PowerBI,Python
 #### 📫 How to reach me: syifanurinayah07@gmail.com
 
+### Languages and Tools
+
+
 <!--
 **syifanurinayah/syifanurinayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
