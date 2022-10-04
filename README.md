@@ -7,8 +7,8 @@
 <img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/imageedit_1_6076270254.png" width="50" height="40" /><img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/Tableau-Symbol.png" width="50" height="40" /><img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/power-bi_logo.png" width="90" height="40" /><img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/Python-logo-notext.svg.png" width="50" height="40" />
 
 ### Connect With Me
- <a href="https://inntekno.blogspot.co.id/2016/06/pengertian-html.html">
-      <img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/174857.png" width="50" height="50" />
+ <a href="https://www.linkedin.com/in/syifa-nurinayah-30ab81156/">
+      <img src="https://github.com/syifanurinayah/syifanurinayah/blob/main/174857.png" width="40" height="40" />
     </a>
 
 
