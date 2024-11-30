@@ -18,7 +18,7 @@ Here are some of my projects:
 
 ## 📫 How to Reach Me  
 - **Email:** [syifanurinayah07@gmail.com](mailto:syifanurinayah07@gmail.com)  
-- **LinkedIn:** [Syifa Nurinayah]([https://bit.ly/syifalinked](https://bit.ly/syifalinked))  
+- **LinkedIn:** [SyifaNurinayah]([https://bit.ly/syifalinked](https://bit.ly/syifalinked))  
 
 
 
